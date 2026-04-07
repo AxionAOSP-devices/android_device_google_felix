@@ -22,6 +22,8 @@ PRODUCT_NAME := lineage_$(DEVICE_CODENAME)
 TARGET_SCREEN_HEIGHT := 2092
 TARGET_SCREEN_WIDTH := 1080
 
+AXION_MAINTAINER ?= rmp
+
 PRODUCT_BUILD_PROP_OVERRIDES += \
     BuildDesc="felix-user 16 BP4A.260205.001 14624666 release-keys" \
     BuildFingerprint=google/felix/felix:16/BP4A.260205.001/14624666:user/release-keys \
