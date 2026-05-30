@@ -127,4 +127,7 @@
 
     <!--  Whether to use a machine learning model for back gesture falsing. -->
     <bool name="config_useBackGestureML">false</bool>
+    
+    <!-- wether to use display cutout as top padding of the qs panel if false will use ax_qs_top_padding -->
+    <bool name="config_shouldUseDisplayCutOutPadding" translatable="false">false</bool>
 </resources>

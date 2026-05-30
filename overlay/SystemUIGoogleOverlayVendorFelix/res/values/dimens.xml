@@ -42,4 +42,5 @@
     <item name="weather_clock_smartspace_scale" format="float" type="dimen">0.85</item>
     <dimen name="weather_clock_smartspace_translateX">-40dp</dimen>
     <dimen name="weather_clock_smartspace_translateY">-15dp</dimen>
+    <dimen name="ax_qs_top_padding">8dp</dimen>
 </resources>
